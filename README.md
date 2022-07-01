@@ -3,12 +3,14 @@
 Dead simple desktop automation tool. Written in Rust.  
 It takes an instruction text file (see instruction_example file) and executes it.  
 
-To build:  
-`cargo build --release`
-
+To build:
+```Bash
+cargo build --release
+```
 Usage:
-`shadowhand instruction_file`
-
+```Bash
+shadowhand instruction_file
+```
 
 
 Runtime dependencies
