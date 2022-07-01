@@ -1,0 +1,10 @@
+[package]
+name = "shadowhand"
+description = "Simple desktop automation"
+version = "0.1.0"
+edition = "2021"
+authors = ["serpent-code"]
+license = "GPL-3.0-only"
+
+[dependencies]
+enigo = "0.0.14"

@@ -1,0 +1,63 @@
+mouse_move_to 23 43
+
+mouse_click
+
+mouse_move_relative 20 20
+
+mouse_click
+
+key_click {Return}
+
+mouse_move_to 139 173
+
+mouse_click
+
+mouse_move_to 441 300
+
+mouse_click
+
+key_sequence Beep Beep I'm a robot.
+
+key_down {Control}
+key_click a
+key_up {Control}
+
+
+mouse_move_to 679 238
+
+mouse_click
+
+key_down {Control}
+key_click a
+key_up {Control}
+
+key_sequence 80
+
+key_click {Return}
+
+
+mouse_move_to 1277 591
+mouse_click
+
+mouse_move_to 139 147
+mouse_click
+
+mouse_move_to 88 238
+mouse_click
+
+mouse_move_to 146 153
+mouse_click
+
+mouse_move_to 146 153
+mouse_click
+
+mouse_move_to 374 391
+mouse_click
+
+
+mouse_down
+mouse_move_relative 300 15
+mouse_move_relative -50 50
+mouse_move_relative 400 25
+mouse_up
+
